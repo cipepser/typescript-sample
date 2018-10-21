@@ -1,2 +1,1 @@
 # typescript-sample
-# typescript-sample
