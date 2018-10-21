@@ -1,5 +1,8 @@
-let message = '';
-message = "TypeScript";
-message = 2;
-console.log("Hello!" + message);
+let value = 1;
+if (value) {
+    console.log("defined");
+}
+else {
+    console.log("undefined");
+}
 //# sourceMappingURL=app.js.map
