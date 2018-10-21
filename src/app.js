@@ -1,5 +1,6 @@
 let value = 1;
-if (value) {
+let str = "1";
+if (value == str) {
     console.log("defined");
 }
 else {
